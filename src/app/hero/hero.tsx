@@ -1,4 +1,5 @@
 import Image from "next/image";
+import AnimatedText from "./animated-text";
 
 export default function Hero() {
   return (
@@ -11,9 +12,7 @@ export default function Hero() {
         height={1080}
       />
       <div className="absolute left-0 top-0 bg-[rgba(0,0,0,0.7)] h-screen w-screen flex items-center justify-center">
-        <h1 className="text-[60px] font-extrabold text-center">
-          Sushmitha Pandith
-        </h1>
+        <AnimatedText />
       </div>
     </section>
   );
