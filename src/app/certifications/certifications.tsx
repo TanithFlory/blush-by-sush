@@ -9,7 +9,7 @@ export default function Certifications() {
       <SectionWrapper>
         <div>
           <h3 className="font-bold text-[24px]">
-            {"Zohra's Certifications from London School of Makeup"}
+            {`'Zohra's Certifications from London School of Makeup'`}
           </h3>
           <h2 className="font-extrabold text-[55px] max-w-[558px] w-full">
             Excellence Recognized by Industry Leaders

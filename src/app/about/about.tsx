@@ -29,31 +29,31 @@ export default function About() {
           </div>
           <div className="space-y-[40px]">
             <h3 className="font-bold text-[24px]">
-              Elevating Beauty and Creativity to New Highlights
+              {`'Elevating Beauty and Creativity to New Highlights'`}
             </h3>
             <p>
-              Welcome to the world of Zohra Ilyas. Zohra Ilyas is a highly
+              {`'Welcome to the world of Zohra Ilyas. Zohra Ilyas is a highly
               skilled and passionate professional in the realms of fashion,
               media, and beauty. With her extensive experience and unwavering
               commitment to excellence, Zohra brings a touch of magic to every
               project she undertakes. From fashion and media makeup
               artistry/styling to casting coordination, outsourcing for filming,
               and blogger management, Zohra offers a range of services tailored
-              to your needs.
+              to your needs.'`}
             </p>
             <p>
-              With a wealth of experience across Turkey, Pakistan, India, and
-              the UAE, Zohra's expertise transcends borders and cultures. Her
+              {`'With a wealth of experience across Turkey, Pakistan, India, and
+              the UAE, Zohras expertise transcends borders and cultures. Her
               international exposure has honed her skills to perfection,
               allowing her to infuse her work with the rich tapestry of diverse
-              landscapes. Zohra's artistry is backed by her certifications from
+              landscapes. Zohras artistry is backed by her certifications from
               the renowned London School of Makeup, a testament to her
               unwavering commitment to excellence. With every stroke of her
               brush, Zohra creates captivating transformations that leave a
-              lasting impact.
+              lasting impact.'`}
             </p>
             <p>
-              When you choose Zohra Ilyas, you choose an artist who understands
+              {`'When you choose Zohra Ilyas, you choose an artist who understands
               the power of beauty and its ability to tell stories. Experience
               the artistry of Zohra Ilyas and unlock your true potential. With
               her international expertise and London School of Makeup
@@ -61,7 +61,7 @@ export default function About() {
               authenticity to every project. Let her transform your vision into
               a reality, where beauty meets creativity and leaves an indelible
               mark on the world. Choose Zohra Ilyas for an unforgettable journey
-              of beauty, empowerment, and impactful storytelling.
+              of beauty, empowerment, and impactful storytelling.'`}
             </p>
           </div>
         </SectionWrapper>
