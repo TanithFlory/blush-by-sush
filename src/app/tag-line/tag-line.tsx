@@ -6,7 +6,7 @@ export default function TagLine() {
     <div className="relative mb-[180px]">
       <VerticalObject objectPosition="left" />
       <SectionWrapper>
-        <h2 className="font-extrabold text-[55px] text-center">
+        <h2 className="font-extrabold text-[55px] max-xs:text-[35px] text-center">
           ENHANCE YOUR STYLE, AMPLIFY YOUR PRESENCE
         </h2>
       </SectionWrapper>

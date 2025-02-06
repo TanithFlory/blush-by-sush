@@ -9,20 +9,20 @@ export default function About() {
         <VerticalObject objectPosition="left" />
         <SectionWrapper>
           <div className="flex gap-[60px] mb-[83px] max-md:flex-wrap">
-            <div className="flex-grow-0 flex-shrink-0 basis-[396px]">
+            <div className="flex-grow-0 flex-shrink-0 basis-[396px] max-xs:basis-[auto] max-xs:w-full max-xs:flex max-xs:justify-center">
               <Image
                 src={"/artist.png"}
                 width={396}
                 height={357}
                 alt="Sushmitha Pandith"
-                className="h-[357px] w-[396px]"
+                className="h-[357px] w-[396px]  max-xs:w-[320px] max-xs:h-[290px] "
               />
             </div>
             <div className="w-full">
               <h3 className="font-bold text-[24px] mb-[37px] ">
                 About Sushmitha Pandith
               </h3>
-              <div className="font-extrabold text-[55px]">
+              <div className="font-extrabold max-xs:text-[35px] text-[55px]">
                 Meet Sushmitha Pandith, an Expert in Beauty and Hair Dressing
               </div>
             </div>
