@@ -14,7 +14,7 @@ export default function Certifications() {
           <h2 className="font-extrabold text-[55px] max-w-[558px] w-full">
             Excellence Recognized by Industry Leaders
           </h2>
-          <div className="flex items-center gap-[24px] mt-[65px] justify-center">
+          <div className="flex items-center gap-[24px] mt-[65px] justify-center flex-wrap">
             {["certificate1", "certificate2"].map((item, key) => (
               <div key={key}>
                 <Image
